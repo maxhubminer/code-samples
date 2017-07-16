@@ -17,7 +17,7 @@ namespace MovieAdvisor.Core.Repository
     public class MovieAdvisorRepository
     {
         static string apiUrl = "https://api.themoviedb.org/3";
-        static string apiKey = "daaaee5cacd8e582269fbb7c04bed9fc";
+        static string apiKey = "***";
         static string imageUrl = "https://image.tmdb.org/t/p";
         static List<Movie> movies = new List<Movie>();
         static string language;
